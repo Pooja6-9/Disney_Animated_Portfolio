@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.claude/
+_backup-magic-theme-src/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
